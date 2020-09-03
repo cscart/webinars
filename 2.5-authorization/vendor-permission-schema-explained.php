@@ -57,12 +57,6 @@ return [
             ],
         ],
     ],
-    // Управление аддонами
-    'addon'              => [
-        'addon_name' => [
-            'permission' => false,
-        ],
-    ],
     // Управление exim
     'import'             => [
         'sections' => [
