@@ -13,3 +13,4 @@
 
 * [Как работают тэги кэша](./2.8-caching/registry-tag-explained.php).
 * [Как работают тэги кэша — расширенный пример](./2.8-caching/registry-same-tag-different-functions-explained.php).
+* [Блокировки](./2.8-caching/locks-explained.php).
