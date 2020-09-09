@@ -56,6 +56,10 @@ return [
                 'callable_disable_condition_1' => ['fn_is_cache_disabled_for_callable_condition'],
             ],
         ],
+        // Условия для принудительного сброса кэша
+        'regenerate_cache_when' => [
+            // Аналогично disable_cache_when
+        ],
         // Перегрузка правил кэширования блока для отдельных маршрутов
         'cache_overrides_by_dispatch' => [
             // Структура схемы для маршрута такая же, как и для блока в целом
