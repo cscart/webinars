@@ -7,7 +7,7 @@ return [
         // Название контроллера
         'controller_demo' => [
             // Будет использовано, если не найдутся конкретные условия для режима
-            'permissions' => false,
+            'permissions' => true,
             'modes'       => [
                 // Название режима
                 'mode_boolean'        => [
@@ -32,20 +32,11 @@ return [
                     ],
                 ],
                 'mode_conditions'     => [
-                    'permissions' => false,
+                    'permissions' => true,
                     // Правило, использующее условие с функцией
                     'condition'   => [
-                        'operator' => 'or',
+                        'operator' => 'and',
                         'function' => ['fn_foo'],
-                    ],
-                    // Условия могут быть вложенными
-                    'condition'   => [
-                        'user_type' => [
-                            \Tygh\Enum\UserTypes::ADMIN => [
-                                'operator' => 'and',
-                                'function' => ['fn_bar'],
-                            ],
-                        ],
                     ],
                 ],
                 'mode_companies'      => [
@@ -54,6 +45,11 @@ return [
                     // Форсировать company_id при выполнении запроса
                     'use_company' => true,
                 ],
+            ],
+            // Условия c функцией можно использовать на уровне контроллера
+            'condition'   => [
+                'operator' => 'and',
+                'function' => ['fn_foo'],
             ],
         ],
     ],
