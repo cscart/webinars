@@ -19,4 +19,5 @@
 # [2.10. Создание собственной сущности](./2.10-new-entity)
 
 * [Подробное описание схемы меню](./2.10-new-entity/menu-schema-explained.php).
+* [Подробное описание схемы блоков](./2.10-new-entity/blocks-schema-explained.php).
 * [Модуль Offline Sales, реализующий собственную сущность](./2.10-new-entity/offline-sales-addon).
