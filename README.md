@@ -15,3 +15,8 @@
 * [Как работают тэги кэша — расширенный пример](./2.8-caching/registry-same-tag-different-functions-explained.php).
 * [Блокировки](./2.8-caching/locks-explained.php).
 * [Кэширование блоков](./2.8-caching/blocks-caching-explained.php).
+
+# [2.10. Создание собственной сущности](./2.10-new-entity)
+
+* [Подробное описание схемы меню](./2.10-new-entity/menu-schema-explained.php).
+* [Модуль Offline Sales, реализующий собственную сущность](./2.10-new-entity/offline-sales-addon).
