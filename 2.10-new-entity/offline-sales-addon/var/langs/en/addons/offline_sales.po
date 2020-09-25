@@ -1,0 +1,73 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::offline_sales"
+msgid "Offline sales"
+msgstr "Offline sales"
+
+msgctxt "Addons::description::offline_sales"
+msgid "Allows you to inform your customers about on-going sales in your stores"
+msgstr "Allows you to inform your customers about on-going sales in your stores"
+
+msgctxt "Languages::offline_sales.offline_sales"
+msgid "Offline sales"
+msgstr "Offline sales"
+
+msgctxt "Languages::offline_sales.offline_sales_menu_description"
+msgid "List of sales, on-going in your stores"
+msgstr "List of sales, on-going in your stores"
+
+msgctxt "Languages::offline_sales.new_sale"
+msgid "New sale"
+msgstr "New sale"
+
+msgctxt "Languages::offline_sales.sale_title"
+msgid "Name"
+msgstr "Name"
+
+msgctxt "Languages::offline_sales.sale_description"
+msgid "Description"
+msgstr "Description"
+
+msgctxt "Languages::offline_sales.store"
+msgid "Store"
+msgstr "Store"
+
+msgctxt "Languages::offline_sales.find_store"
+msgid "Find store..."
+msgstr "Find store..."
+
+msgctxt "Languages::offline_sales.sale_image"
+msgid "Image"
+msgstr "Image"
+
+msgctxt "Languages::offline_sales.icon_will_be_shown_in_blocks"
+msgid "Icon will be shown in blocks"
+msgstr "Icon will be shown in blocks"
+
+msgctxt "Languages::offline_sales.image_will_be_shown_on_sale_pages"
+msgid "Full size image will be used for sale pages"
+msgstr "Full size image will be used for sale pages"
+
+msgctxt "Languages::offline_sales.read_more"
+msgid "Read more"
+msgstr "Read more"
+
+msgctxt "Languages::offline_sales.discounted_products"
+msgid "Discounted products"
+msgstr "Discounted products"
+
+msgctxt "Languages::block_offline_sales"
+msgid "Offline sales"
+msgstr "Offline sales"
+
+msgctxt "Languages::block_offline_sales_description"
+msgid "Shows offline sales list"
+msgstr "Shows offline sales list"
+
+msgctxt "Languages::offline_sales.displayed_offline_sales"
+msgid "Displayed offline sales"
+msgstr "Displayed offline sales"
