@@ -58,8 +58,6 @@ return [
                     'alt'         => 'my_entities.manage,my_entities.update',
                     // Порядок сортировки в меню. Меньше — выше.
                     'position'    => 10,
-                    // Описание пункта меню. Выводится под его названием
-                    'description' => __('my_addon.entities.menu_description'),
                     // Элементы меню третьего уровня
                     'subitems'    => [
                         // Структура аналогична элементам меню второго уровня
