@@ -22,3 +22,7 @@
 * [Подробное описание схемы блоков](./2.10-new-entity/blocks-schema-explained.php).
 * [Подробное описание схемы SEO](./2.10-new-entity/seo-objects-schema-explained.php).
 * [Модуль Offline Sales, реализующий собственную сущность](./2.10-new-entity/offline-sales-addon).
+
+# [2.12. Инструменты экспорта и импорта](./2.12-exim)
+
+* [Подробное описание паттерна](./2.12-exim/exim-schema-explained.php).
