@@ -16,12 +16,12 @@
 * [Блокировки](./2.8-caching/locks-explained.php).
 * [Кэширование блоков](./2.8-caching/blocks-caching-explained.php).
 
-# [2.10. Создание собственной сущности](./2.10-new-entity)
+# [2.11. Создание собственной сущности](./2.11-new-entity)
 
-* [Подробное описание схемы меню](./2.10-new-entity/menu-schema-explained.php).
-* [Подробное описание схемы блоков](./2.10-new-entity/blocks-schema-explained.php).
-* [Подробное описание схемы SEO](./2.10-new-entity/seo-objects-schema-explained.php).
-* [Модуль Offline Sales, реализующий собственную сущность](./2.10-new-entity/offline-sales-addon).
+* [Подробное описание схемы меню](./2.11-new-entity/menu-schema-explained.php).
+* [Подробное описание схемы блоков](./2.11-new-entity/blocks-schema-explained.php).
+* [Подробное описание схемы SEO](./2.11-new-entity/seo-objects-schema-explained.php).
+* [Модуль Offline Sales, реализующий собственную сущность](./2.11-new-entity/offline-sales-addon).
 
 # [2.12. Инструменты экспорта и импорта](./2.12-exim)
 
