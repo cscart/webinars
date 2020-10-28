@@ -28,3 +28,9 @@
 * [Подробное описание паттерна](./2.12-exim/exim-schema-explained.php).
 * [Подробное описание дополнительных свойств паттерна в модуле «Расширенный импорт товаров»](./2.12-exim/advanced-import-products-schema-explained.php).
 * [Подробное описание отношений для сопоставления в модуле «Расширенный импорт товаров»](./2.12-exim/advanced-import-relations-schema-explained.php).
+
+# [2.13. Способы оплаты](./2.13-payment-methods)
+
+* [Оплата на стороне платежного шлюза](./2.13-payment-methods/checkout-on-payment-gateway.php).
+* [Оплата на магазине](./2.13-payment-methods/checkout-in-store.php).
+* [Обработка платежного поручения (server-to-server)](./2.13-payment-methods/process-payment-notifications.php).
