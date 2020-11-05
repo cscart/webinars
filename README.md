@@ -34,3 +34,7 @@
 * [Оплата на стороне платежного шлюза](./2.13-payment-methods/checkout-on-payment-gateway.php).
 * [Оплата на магазине](./2.13-payment-methods/checkout-in-store.php).
 * [Обработка платежного поручения (server-to-server)](./2.13-payment-methods/process-payment-notifications.php).
+
+# [2.16. Работа с уведомлениями](./2.16-notifications)
+
+* [Подробное описание схемы событий](./2.16-notifications/events-schema-explained.php).
